@@ -1,9 +1,9 @@
 
 
 
-def hello_word():
-	return "hello world into workspace"
+def data_Attribute_Testing():
+	return "Data_Attribute_testing_completed"
 	
 	
-m=hello_word()
+m=data_Attribute_Testing()
 print(m)

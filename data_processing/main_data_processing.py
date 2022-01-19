@@ -1,9 +1,9 @@
 
 
 
-def hello_word():
-	return "hello world into workspace"
+def data_processing():
+	return "Data_Processing_Completed"
 	
 	
-m=hello_word()
+m=data_processing()
 print(m)

@@ -1,9 +1,9 @@
 
 
 
-def hello_word():
-	return "hello world into workspace"
+def move_data():
+	return "data_moved_to_AWS"
 	
 	
-m=hello_word()
+m=move_data()
 print(m)
